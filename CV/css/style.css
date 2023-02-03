@@ -1,0 +1,27 @@
+body {
+  background-color: #dddddd;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: thick;
+  width: 5%;
+  color: grey;
+}
+
+h1{
+  color: #243763;
+  font-family: "Lethal Slime","AlphaWood", sans-serif;
+}
+
+h2,h3{
+    color: rgb(34, 32, 32);
+    font-family: italic,sans-serif;
+}
+
+.round-image {
+  border-radius: 50%;
+  height: 75%;
+  width: 75%;
+}
