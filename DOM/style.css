@@ -1,0 +1,12 @@
+h1 {
+    color: purple;
+  }
+
+.invisible{
+    visibility: hidden;
+}
+
+.huge{
+    font-size: 10rem;
+    color: rgb(227, 162, 77);
+}
